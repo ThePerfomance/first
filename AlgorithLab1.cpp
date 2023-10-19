@@ -17,7 +17,7 @@ int main()
 {
     srand((unsigned int)time(NULL));
     setlocale(LC_ALL, "Rus");
-
+    //fvfvjfvndjfv
     int WorkTime;
     cout << "Введите время работы датчика в секундах: ";
     cin >> WorkTime;
